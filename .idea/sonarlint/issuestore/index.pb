@@ -1,0 +1,31 @@
+
+?
+settings.gradle,0\5\05efc8b1657769a27696d478ded1e95f38737233
+V
+&src/main/kotlin/task/ServiceBuilder.kt,c\e\ce5061cab79f6e736b4752f3de17bfa320622859
+Q
+!src/main/kotlin/task/dtos/Item.kt,0\8\08c84647ab8803ccbcc76e211c05bfeea3522a07
+`
+0src/main/kotlin/task/endpoints/FilterEndpoint.kt,c\d\cd28030b9efc2c1928f23d68ef5606c4b835d6a3
+S
+#src/main/kotlin/task/dtos/Filter.kt,6\0\605222977353b58baba3ba11d601d94af586d13d
+Q
+!src/main/kotlin/task/dtos/User.kt,1\6\161055213fd704c0ebad90b78c80d166a34e4498
+]
+-src/main/kotlin/task/service/FilterService.kt,f\1\f1f0f250eccb92de5e4bdead7174d2054fb77dcf
+X
+(src/main/kotlin/task/dtos/TagResponse.kt,1\2\12802900cfa5ab50bd14d94c9fc90a080e82f946
+P
+ src/main/kotlin/task/dtos/Tag.kt,4\0\403aad7023a96a6f91885fa8cfb63449779ba7bd
+^
+.src/main/kotlin/task/endpoints/UserEndpoint.kt,b\3\b3139624476f786552bad3027200dcd0bb769e94
+^
+.src/main/kotlin/task/dtos/StackOverflowUser.kt,8\a\8aa5e0e9d6e002bb27abfb79e0aeedb7f7d9f186
+Y
+)src/main/kotlin/task/dtos/UserResponse.kt,d\2\d2b41c5cec6f43999a797df472fa3bfa4f943a54
+<
+build.gradle,f\0\f07866736216be0ee2aba49e392191aeae700a35
+O
+src/main/kotlin/task/TaskApp.kt,9\0\90c9abbb92244b4eb387255a0125c04677012c51
+[
++src/main/kotlin/task/service/UserService.kt,1\3\1354e7b6c7a9d602157e2992f25411a8e35414e6
